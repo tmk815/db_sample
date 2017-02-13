@@ -1,2 +1,3 @@
 # db_sample
-It is a sample of young people manufacturing campaign competition
+JavaFXを使ったデータベース取得のサンプルプログラムです。
+DB名やカラム名、ユーザー名、パスワードなどは任意のものに置き換えてください。

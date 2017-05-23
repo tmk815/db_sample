@@ -64,8 +64,8 @@ public class TableController implements Initializable{
                 startmonthItems.add(month);
                 endmonthItems.add(month);
             }
-
-
+            
+            //JDBCドライバを読み込む
             Class.forName("com.mysql.jdbc.Driver");
         } catch (ClassNotFoundException e) {
             e.printStackTrace();
